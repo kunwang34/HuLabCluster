@@ -16,7 +16,7 @@
 
 - 以上测试完成后发送到邮箱kunwang034@gmail.com. 
     
-    After the above test is completed, send it to the mailbox akunwang034@gmail.com.
+    After the above test is completed, send it to the mailbox kunwang034@gmail.com.
 ## Warning
 - 严禁在服务器运行非科研需求程序，包括但不限于各种挖矿软件、PCDN软件; 
   
@@ -25,7 +25,7 @@
 
     It is strictly prohibited to privately set up intranet penetration services.
 
-- 运行时常>1分钟或需要多线程运行的作业提交必须通过slurm系统
+- 运行时长>1分钟或需要多线程运行的作业提交必须通过slurm系统
 
     Jobs that require a runtime longer than 1 minute or multi-threaded execution must be submitted through the Slurm system.
 
