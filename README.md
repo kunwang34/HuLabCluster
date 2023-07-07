@@ -10,10 +10,10 @@
 - [Slurm使用指南 Slurm User Guide](./docs/4.%20slurm%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97.rst)
 
 ## 测试 Tests
-- [服务器使用基础及slurm使用基础 Server Usage and Slurm Usage Basics](./test/1.%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%8F%8Aslurm%E4%BD%BF%E7%94%A8%E5%9F%BA%E7%A1%80.md)，完成此测试方可创建服务器账号，但只能单核运行程序。
+- [服务器使用基础及slurm使用基础](./test/1.%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%8F%8Aslurm%E4%BD%BF%E7%94%A8%E5%9F%BA%E7%A1%80.md)，完成此测试方可创建服务器账号，但只能单核运行程序。
   
     [Server Usage and Slurm Usage Basics](./test/1.%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%8F%8Aslurm%E4%BD%BF%E7%94%A8%E5%9F%BA%E7%A1%80.md)，After completing this test, you can create a server account, but you can only run the program on a single core.
-- [多线程和并行基础 Multithreading and Parallel Basics](./test/2.%20%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%92%8C%E5%B9%B6%E8%A1%8C%E5%9F%BA%E7%A1%80.md)，完成此测试可以多核运行程序。
+- [多线程和并行基础](./test/2.%20%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%92%8C%E5%B9%B6%E8%A1%8C%E5%9F%BA%E7%A1%80.md)，完成此测试可以多核运行程序。
   
     [Multithreading and Parallel Basics](./test/2.%20%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%92%8C%E5%B9%B6%E8%A1%8C%E5%9F%BA%E7%A1%80.md)，After completing this test, the program can be run on multiple cores.
 
