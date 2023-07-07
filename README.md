@@ -4,7 +4,7 @@
 - [服务器概况 Cluster Overview](./docs/1.%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%A6%82%E5%86%B5.md)
 - [文件上传 File Upload](./docs/2.%20%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0.md)
 - [任务提交 Job Submission](./docs/3.%20%E4%BB%BB%E5%8A%A1%E6%8F%90%E4%BA%A4.md)
-- [Slurm使用指南 Slurm User Guide](./docs/4.%20slurm%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97.md)
+- [Slurm使用指南 Slurm User Guide](./docs/4.%20slurm%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97.rst)
 
 ## 测试 Tests
 - [服务器使用基础及slurm使用基础 Server Usage and Slurm Usage Basics](./test/1.%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%8F%8Aslurm%E4%BD%BF%E7%94%A8%E5%9F%BA%E7%A1%80.md)，完成此测试方可创建服务器账号，但只能单核运行程序。
