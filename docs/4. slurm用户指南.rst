@@ -1,4 +1,5 @@
-**该文档转自`中国科大超级计算中心用户使用文档 <https://git.ustc.edu.cn/scc/user-doc>`_**
+**该文档转自 `中国科大超级计算中心用户使用文档`_**
+.. _中国科大超级计算中心用户使用文档: https://git.ustc.edu.cn/scc/user-doc
 
 简介
 ~~~~
