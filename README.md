@@ -1,7 +1,6 @@
 # HuLabCluster
 管理员 (Administors):
 - Xiangwei Zhai (zhaixw@mail2.sysu.edu.cn)
-- Xin Wang (x.wang@siat.ac.cn)
 - Kun Wang (kunwang034@gmail.com)
 ## 目录 Content
 - [服务器概况 Cluster Overview](./docs/1.%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%A6%82%E5%86%B5.md)
